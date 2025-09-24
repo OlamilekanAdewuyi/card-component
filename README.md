@@ -26,11 +26,11 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./Screenshot 2025-09-23 194005.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/OlamilekanAdewuyi/card-component.git)
+- Live Site URL: [Add live site URL here](https://card-component7.netlify.app/)
 
 
 ## My process
